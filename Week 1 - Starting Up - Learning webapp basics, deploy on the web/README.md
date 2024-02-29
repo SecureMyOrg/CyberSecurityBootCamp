@@ -1,5 +1,11 @@
 # Week 1 - Starting Up - Learning webapp basics, deploy on the web
 
+**Pre Requisites**
+
+1. Laptop with internet connectivity
+2. Have account on - Github, AWS, Reddit, Cloudflare and StackOverflow
+3. Unix terminal running ( mac and linux have this ); For windows use WSL for linux, check any video how to set this up. Windows users can use Ubuntu WSL to practice terminal commands
+
 ## What we plan to achieve
 
 1. Daily reads - Newsportals, RSS Feeds etc
@@ -9,11 +15,10 @@
 5. Using a terminal - macOS, linux or ubuntu on windows ( WSL windows subsystem for linux )
 6. Asking for help in Online Communities - SO, reddit etc
 
-### Pre Requisites
+## Classes
 
-1. Laptop with internet connectivity
-2. Have account on - Github, AWS, Reddit, Cloudflare and StackOverflow
-3. Unix terminal running ( mac and linux have this ); For windows use WSL for linux, check any video how to set this up. Windows users can use Ubuntu WSL to practice terminal commands
+1. [Class-1](./class-1.md)
+
 
 ### Resources
 
