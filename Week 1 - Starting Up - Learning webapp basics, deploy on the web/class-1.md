@@ -1,7 +1,7 @@
 ## Resources
 
 Class Recording - https://www.youtube.com/live/5SQUmMIk57I?si=B-lQlsMEl5us8Rd3
-Discord Link - https://discord.gg/dtTqb4aMbH
+Discord Link - https://discord.gg/K4eCFUcKhy
 
 ### News Portals
 
