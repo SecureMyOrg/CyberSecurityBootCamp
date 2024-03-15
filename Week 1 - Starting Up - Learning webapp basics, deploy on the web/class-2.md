@@ -15,9 +15,9 @@ We setup our  blog on your own domain using -
 
 We used the template here - https://github.com/alxshelepenok/gatsby-starter-lumen
 
-1. CF Hosted Blog - https://mybootcampblog.securemyorg.com
+1. CF Hosted Blog - https://mybootcampblog.securemyorg.com ( now removed )
 2. Github Hosted Blog - https://securemyorg.github.io
-3. GH Hosted Blog on our Domain - https://githubblog.securemyorg.com
+3. GH Hosted Blog on our Domain - https://githubblog.securemyorg.com 
 
 
 ## Resources
